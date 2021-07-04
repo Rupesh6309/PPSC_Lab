@@ -1,3 +1,5 @@
+/*b) Write a program in C to compare two strings without using string library functions */
+
 #include<stdio.h>
 void main()
 {
