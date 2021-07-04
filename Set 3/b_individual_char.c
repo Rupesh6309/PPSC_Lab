@@ -1,3 +1,5 @@
+/*b) Write a program in C to print individual characters of string in reverse order*/
+
 #include<stdio.h>
 #include<string.h>
 void main()
