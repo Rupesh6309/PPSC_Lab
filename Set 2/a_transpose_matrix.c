@@ -1,3 +1,5 @@
+/*a) Write a program in C to find transpose of a given matrix.*/
+
 #include<stdio.h>
 void main()
 {
