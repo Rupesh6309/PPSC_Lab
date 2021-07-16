@@ -1,6 +1,6 @@
 /* Demonstare string to double function */
 #include<stdio.h>
-#include<string.h>
+#include<stdlib.h>
 void main()
 {
 	double num;
