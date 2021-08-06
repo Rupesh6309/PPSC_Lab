@@ -6,7 +6,7 @@ void main()
 	int n, i, *ptr, sum=0;
 	printf("enter the number of elements: ");
 	scanf("%d",&n);
-	ptr = (int *)malloc(n*sizeof(int));
+	ptr = (int *)calloc(n,sizeof(int));
 	if(ptr == NULL)
 	{
 		printf("error! memory not allocated.");
